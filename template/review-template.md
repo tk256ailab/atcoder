@@ -2,9 +2,9 @@
 開催日: 
 
 ## [結果]()
-**レート: <span style="color:#A0522D">x → y (+z)**
+**レート: x → y (+z) 🟤**
 
-**パフォーマンス: <span style="color:green">x**
+**パフォーマンス: x 🟢**
 
 - A: AC (:)
 - B: AC (:)

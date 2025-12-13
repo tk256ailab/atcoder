@@ -2,9 +2,9 @@
 開催日: 2025-12-13
 
 ## [結果](https://atcoder.jp/contests/abc436/standings?watching=tk256ailab)
-**レート: <span style="color:#A0522D">683 → 748 (+65)</span>**
+**レート: 683 → 748 (+65) 🟤**
 
-**パフォーマンス: <span style="color:green">1194</span>**
+**パフォーマンス: 1194 🟢**
 
 - A: AC (1:44)
 - B: AC (18:02)

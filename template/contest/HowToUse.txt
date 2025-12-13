@@ -1,0 +1,9 @@
+問題ごとのファイルにコードを書く
+
+それをmain.cppにコピー
+
+以下を実行 (MacOS)
+clang++ main.cpp -std=c++17 -o main && ./main
+
+テストケースを貼り付け、出力を確認
+

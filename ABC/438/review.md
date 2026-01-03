@@ -1,5 +1,5 @@
 # [ABC438](https://atcoder.jp/contests/abc438) 総評
-開催日: 2025-12-20
+開催日: 2025-12-27
 
 ## [結果](https://atcoder.jp/contests/abc438/standings?watching=tk256ailab)
 **レート: 783 → 826 (+43) 🟢**
